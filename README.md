@@ -1,4 +1,4 @@
-# Snake_Game-using_Python
+# Snake_Game using_Python
 This is the snake game , in which you can play snake game in a 3D screen.
  
  
