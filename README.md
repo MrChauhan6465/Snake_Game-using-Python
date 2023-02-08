@@ -11,21 +11,10 @@ This is the snake game , in which you can play snake game in a 3D screen.
 
 ![Screenshot2](https://user-images.githubusercontent.com/89354259/187977810-4e522c37-5568-45f9-8542-f5aed526b5af.png)
 
-## 🚀 About Me
-I'm a Programmer.
+## About Me
 
+I'm a programmer with experience in multiple programming languages, including Python, Java, C, C++, Javascript, HTML, and CSS.
 
+## Contact
 
-## 🛠 Skills
-Python , Java , C , C++ ,Javascript, HTML, CSS...
-
-
-
-    
-## Support
-
-For support, email vijaykumarchauhan6465@gmail.com 
-
-## Feedback
-
-If you have any feedback, please reach out to us at vijaykumarchauhan6465@gmail.com
+For support or feedback, please reach out to me at vijaykumarchauhan6465@gmail.com
